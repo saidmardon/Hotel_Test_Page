@@ -1,0 +1,36 @@
+body{
+      margin: 0px;
+      background-color: cadetblue;
+}
+.asosi {
+     padding-left: 20%;
+}
+.photos{    
+      width: 20%;
+      height: 607px;
+      background: rgb(20, 17, 17);
+      float:left;
+}
+.info {     
+      width: 50%;
+      height: 607px;
+      background: rgb(248, 246, 246);  
+      padding: 0px 10px 0px 10px;
+}
+.rasm {
+        width: 170px;
+        height: 200px;
+        margin: 10px;
+        padding-left: 10px;
+        border-radius: 30px;
+}
+li{
+        margin: 10px;
+        color: mediumblue;
+        font-weight: bold;
+}
+hr {
+      border: 1px dashed black;
+}
+  
+ 
